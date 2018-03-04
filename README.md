@@ -1,1 +1,1 @@
-# kaggle-2015-otto
+This folder contains files used to analyze data from the 2015 [Otto Group product classification challenge](https://www.kaggle.com/c/otto-group-product-classification-challenge) [Kaggle](https://www.kaggle.com/) competition.
